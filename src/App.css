@@ -1,9 +1,12 @@
 body {
   background: #282c34;
-  color: #ffffff;
 }
 
 h4 {
   color: #2196f3;
+}
+
+tech-list-modal {
+  color: black;
 }
 
